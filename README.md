@@ -1,1 +1,1 @@
-# graph_neural_ODE
+# Graph_Neural_ODE
